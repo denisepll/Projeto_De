@@ -14,7 +14,7 @@ Este sistema foi desenvolvido para avisar antecipadamente a equipe de produção
 
 
 ## Estrutura do sistema
-
+```text
 Projeto_De
 │
 ├── data/                           
@@ -33,7 +33,7 @@ Projeto_De
 ├── .gitignore                                     # Proteção de arquivos 
 └── README.md                                      # Documentação do projeto
 ├── requirements.txt                               # Bibliotecas necessárias 
-
+```
 
 
 ## Técnicas e tecnologias utilizadas

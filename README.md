@@ -1,17 +1,17 @@
 # Projeto_De - Sistema de predição de falhas industriais
 
-*Sobre o projeto*
+*Sobre:*
 Este repositório contém o projeto avaliativo final do curso de Desenvolvimento de IA para Análise Preditiva - SCTEC: Pipeline preditivo aplicado a indústria 4.0.
 
-*Objetivo*
-O objetivo deste sistema é analisar dados de sensores de máquinas para prever quando um equipamento vai falhar, ajudando a evitar paradas na produção.
+*Objetivo:*
+Analisar dados de sensores de máquinas para prever quando um equipamento vai falhar, ajudando a evitar paradas na produção.
 
 ## O que o sistema resolve?
 
 Este sistema foi desenvolvido para avisar antecipadamente a equipe de produção que a máquina está em ponto de falha, permitindo que a equipe aplique medidas corretivas em tempo. O problema que ele resolve, portanto, é evitar que a máquina quebre de surpresa e a produção pare, levando a prejuízos com manutenção corretiva e perda de produtividade.
 
 ## Vídeo de demonstração
-
+https://drive.google.com/file/d/1DY-0Ite0iyjyWL0NIMsvjq0jujUySIA5/view?usp=sharing
 
 ## Estrutura do sistema
 ```text
